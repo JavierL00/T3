@@ -1,0 +1,10 @@
+INSERT INTO usuario (nombre, apellido, email, telefono, create_at) VALUES ('Javier','Lujan','jlm@gmail.com','967483721','2020-01-01');
+INSERT INTO usuario (nombre, apellido, email, telefono, create_at) VALUES ('Eduardo','Pretell','asd@gmail.com','976584038','2020-02-01');
+INSERT INTO usuario (nombre, apellido, email, telefono, create_at) VALUES ('Patricia','Hernandez','qwe@gmail.com','967483927','2020-08-01');
+INSERT INTO usuario (nombre, apellido, email, telefono, create_at) VALUES ('Ericka','Manustra','fas@gmail.com','956473820','2020-04-01');
+INSERT INTO usuario (nombre, apellido, email, telefono, create_at) VALUES ('Manuel','Pelares','asd@gmail.com','956372810','2020-03-01');
+INSERT INTO actividad (nombre, descripcion, direccion, fecha, create_at) VALUES ('Ven y diviertete','Juego con niños','','2020-01-01');
+INSERT INTO actividad (nombre, descripcion, direccion, fecha, create_at) VALUES ('Disfruta de gratos momentos','Hagamos felices a los ancianos','asd av.123','2020-01-01','2020-01-01');
+INSERT INTO actividad (nombre, descripcion, direccion, fecha, create_at) VALUES ('Toma un disfraz y unete a la diversion','Fiesta para los mas pequeños','asd av.123','2020-01-01','2020-01-01');
+INSERT INTO actividad (nombre, descripcion, direccion, fecha, create_at) VALUES ('Gran dia de piñatas','Realizaremos el cumpleaños de Mateo','asd av.123','2020-01-01','2020-01-01');
+INSERT INTO actividad (nombre, descripcion, direccion, fecha, create_at) VALUES ('Actividades en el rio','Ayuda a los scouts a lograr sus misiones','asd av.123','2020-01-01','2020-01-01');
